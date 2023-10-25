@@ -4,7 +4,7 @@ Submitted by Kaylyn Valdez-Scott Date: 24-OCT-2023 Project Title: SQL Challenge
 Data Engineering Description:
 See file labeled 'Build_Schema.sql' to find six tables created using CSV files provided. 
 
-For ERD sketch: open im
+For ERD sketch: open ERD.jpg
 
 Data Analysis Description:
 See file labeled 'Data_Analysis.sql' to see the lists of each question outlined below-
